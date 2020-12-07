@@ -10,12 +10,12 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": ""
+    "title": "test"
   },
   "legend": {
-    "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "edgeLabel": "Wikilinks",
+    "colorLabel": "Party",
+    "nodeLabel": "Politicians"
   },
   "features": {
     "search": true,
