@@ -8,7 +8,7 @@
     "text": "Ann-Katrine, Jesper \u0026 Piriya"
   },
   "text": {
-    "more": "",
+    "more": "The Network of Danish Politicians is part of our exam project for the course 02805 Social Graphs and Interactions. Two different datasets are used to create this graph. The first dataset is a list of all Danish politicians, both former and current. The dataset contains information about which party they belong to and if they are in the current Danish parliament or EU parliament. This dataset was scraped from the website danskepolitikere.dk. The politician’s names where used to guess the gender which was added as an attribute to the dataset. The second dataset consist of the Wikipedia texts for all the Danish politicians who have a Wikipedia page and are in the first dataset. The information from the Wikipedia page was used to extract the age and the links to other politicians Wikipedia page. These links represent edges in the network.",
     "intro": "This is a model of the Danish Politician Network.\nBoth current and former politicians are included if they a Danish Wikipedia page. \nThe edges in are the Wikipedia links from a politician\u0027s page to another politician\u0027s page. \nThe nodes are colored according to party. ",
     "title": "Network of Danish Politicians"
   },
