@@ -5,12 +5,12 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Ann-Katrine, Jesper \u0026 Piriya"
   },
   "text": {
     "more": "",
-    "intro": "",
-    "title": "test"
+    "intro": "This is a model of the Danish Politician Network.\nBoth current and former politicians are included if they a Danish Wikipedia page. \nThe edges in are the Wikipedia links from a politician\u0027s page to another politician\u0027s page. \nThe nodes are colored according to party. ",
+    "title": "Network of Danish Politicians"
   },
   "legend": {
     "edgeLabel": "Wikilinks",
@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": "Id"
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
